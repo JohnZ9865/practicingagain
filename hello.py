@@ -12,5 +12,5 @@ def pns(a, b): #prime numer searcher
 
 i0 = int(input('Please enter the first integer: '))
 i1 = int(input('Please enter the second integer: '))
-pns(i0, i1)
-    
+pns(0, 12)
+  
